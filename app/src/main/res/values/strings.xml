@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">LicenseProject</string>
+    <string name="app_name">License</string>
+    <string name="nameField">Name</string>
+    <string name="usernameField">Username</string>
+    <string name="passwordField">Password</string>
+    <string name="ageField">Age</string>
+    <string name="buttonText">Register</string>
+    <string name="displayUsername">Username</string>
+    <string name="displayPass">Password</string>
+    <string name="displayLogin">LOGIN</string>
+    <string name="displayRegisterHere">Register Here</string>
+    <string name="user_area_username">Username</string>
+    <string name="user_area_age">Age</string>
 </resources>
